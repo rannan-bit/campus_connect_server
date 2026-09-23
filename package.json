@@ -2,7 +2,7 @@
   "name": "campus-connect-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server db.json --host 0.0.0.0 --port 10000"
+    "start": "json-server db.json --host 0.0.0.0 --port $PORT"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.15"

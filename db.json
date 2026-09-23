@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Rannan",
+      "email": "rannanrinu2222@gmail.com",
+      "password": "1234",
+      "id": "vrv0-rO6Iac"
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "1234",
+      "id": "0lheFKk6_QE"
+    }
+  ],
+  "items": [
+    {
+      "name": "laptop bag",
+      "category": "bags",
+      "location": "Lab",
+      "description": "hp ",
+      "type": "lost",
+      "userId": "vrv0-rO6Iac",
+      "userName": "Rannan",
+      "email": "rannanrinu2222@gmail.com",
+      "id": "bhQuC9hA1mg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

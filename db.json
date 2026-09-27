@@ -11,13 +11,19 @@
       "email": "rahul@gmail.com",
       "password": "1234",
       "id": "0lheFKk6_QE"
+    },
+    {
+      "name": "Rannan",
+      "email": "rannan@gmail.com",
+      "password": "1234",
+      "id": "xQul6jMmNVM"
     }
   ],
   "items": [
     {
       "name": "laptop bag",
       "category": "bags",
-      "location": "Lab",
+      "location": "canteen",
       "description": "hp ",
       "type": "lost",
       "userId": "vrv0-rO6Iac",
